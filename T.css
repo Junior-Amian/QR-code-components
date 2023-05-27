@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-image: linear-gradient( to bottom ,#FF597B, #FF8E9E, #F9B5D0, #EEEEEE );
+}
+
+.first{
+    width: 100%;
+    height: 250px;
+}
+
+.premier{
+    
+    background-color:  white;
+    margin-top: 0;
+    border-style: solid 0px;
+    border-radius: 10px;
+    width: 168px;
+    padding: 10px 30px;
+    position: relative;
+    left: 660px;
+    top: 205px;
+}
+
+
+
+.second{
+    width: 100%;
+    height: 150px;
+}
+
+.deuxieme{
+    margin: 0;
+    background-color: white;
+    border-style: solid 0px;
+    border-radius: 10px;
+    width: 168px;
+    padding: 10px 30px;
+    position: relative;
+    left: 660px;
+    top: 109px;
+}
+
+.third{
+    width: 100%;
+    height: 150px;
+}
+
+.troisieme{
+    margin: 0;
+    background-color: white;
+    border-style: solid 0px;
+    border-radius: 10px;
+    width: 168px;
+    padding: 10px 30px;
+    position: relative;
+    left: 660px;
+    top: 109px;
+}
+
+.fourth{
+    width: 100%;
+    height: 205px;
+}
